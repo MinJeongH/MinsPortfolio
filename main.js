@@ -49,7 +49,6 @@ function typingCount(){
   if(i<strArr.length) {
     selectStr = strArr[i];
     i++;
-    
   }
   else {
     i=0;
